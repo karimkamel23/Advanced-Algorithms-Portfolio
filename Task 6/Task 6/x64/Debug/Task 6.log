@@ -1,0 +1,4 @@
+﻿  Task 6.cpp
+C:\Users\Karem\Desktop\uni\Y2\Advanced Algorithms\Task 6\Task 6\Task 6.cpp(32,41): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Karem\Desktop\uni\Y2\Advanced Algorithms\Task 6\Task 6\Task 6.cpp(38,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Task 6.vcxproj -> C:\Users\Karem\Desktop\uni\Y2\Advanced Algorithms\Task 6\x64\Debug\Task 6.exe
